@@ -2,8 +2,8 @@ name: Generate Snake Contribution GIF
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:      # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -15,7 +15,8 @@ jobs:
           github_user_name: cobalt-s
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg
+          palette: github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
