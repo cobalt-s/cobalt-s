@@ -9,6 +9,8 @@
 
 ---
 
+
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Autonomous RC car using OpenCV, Drone Avionics with Arduinos, and more!**
@@ -18,18 +20,12 @@
 
 ---
 
+
+
 ### 🧰 Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,arduino,raspberrypi,git,linux,html,css,javascript,react" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobalt-s&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -41,6 +37,26 @@
 - 🛠️ **Drone Avionics** – Avionics team for the Railgun drone using Arduino, C++, Move-x Cicerone, to collect weather data, cameras, and send over LoRa radio.  
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobalt-s&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cobalt-s/cobalt-s/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cobalt-s/cobalt-s/blob/output/github-snake.svg" />
+  <img alt="GitHub Snake animation" src="https://github.com/cobalt-s/cobalt-s/blob/output/github-snake.svg" />
+ </picture>
+
+  
+</p>
+
+
+
+---
+
+
+
 ### 🏆 Achievements & Fun
 
 - 💻 Completed multiple hackathons (AI, hardware, full-stack)
@@ -50,6 +66,8 @@
 ### 🌐 Connect With Me
 
 <p>
+
+
   <a href="https://www.linkedin.com/in/cobalt-stamey-7416b0332//" target="_blank">LinkedIn</a> •
   <a href="mailto:stameycobalt@gmail.com">Email</a> 
   <!-- <a href="https://cobalt-s.github.io/">Portfolio</a> -->
