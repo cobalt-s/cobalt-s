@@ -1,7 +1,7 @@
 <!-- Fancy GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Cobalt!</h1>
-<h3 align="center">A passionate Computer Engineering + CS student | Maker | Problem Solver</h3>
+<h3 align="center">A passionate ECE student | Maker | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Building+cool+stuff+with+code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Always+learning+something+new!;Cat+enthusiast+%F0%9F%90%88" alt="Typing SVG" />
@@ -15,6 +15,7 @@
 
 - 🔭 I’m currently working on **Autonomous RC car using OpenCV, Drone Avionics with Arduinos, and more!**
 - 🌱 I’m learning **C/C++, JS, Rust, OpenCV, Arduino, Python**
+- also learning CPU architecture, Logic, etc.
 
 - 🎓 I’m a student at **UW Tacoma**, majoring in Computer Engineering
 
